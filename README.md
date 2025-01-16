@@ -41,6 +41,18 @@ First Index: -1
 Last Index: -1
 ```
 Returning -1 since the element is not found in the array.
+#### Test Case 1
+Input
+```
+n = 10
+arr[] = 1 2 4 4 4 4 17 21 48 50
+4
+```
+Output
+```
+First Index: 2
+Last Index: 5
+```
 
 ## Contact me at
 ```
